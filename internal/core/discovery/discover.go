@@ -9,7 +9,7 @@ import (
 	"plugin"
 	"strings"
 
-	"github.com/hokamsingh/lessgo/internal/core/module"
+	"github.com/singhhokam/lessgo/internal/core/module"
 )
 
 // DiscoverModules scans the src directory for module files and compiles them into shared object files (.so).

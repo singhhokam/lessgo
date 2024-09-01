@@ -11,7 +11,7 @@ import (
 	"net/url"
 
 	"github.com/gorilla/mux"
-	"github.com/hokamsingh/lessgo/internal/utils"
+	"github.com/singhhokam/lessgo/internal/utils"
 )
 
 // Context holds the request and response writer and provides utility methods.

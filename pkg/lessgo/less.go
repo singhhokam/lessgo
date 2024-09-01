@@ -76,7 +76,7 @@ Here's an example of how to use the LessGo framework in a basic web server setup
 		}
 	}
 
-For more detailed documentation and examples, please visit the [official LessGo documentation](https://github.com/hokamsingh).
+For more detailed documentation and examples, please visit the [official LessGo documentation](https://github.com/singhhokam).
 
 # Package Structure
 
@@ -92,18 +92,18 @@ import (
 	"time"
 
 	"github.com/go-redis/redis/v8"
-	"github.com/hokamsingh/lessgo/internal/core/concurrency"
-	"github.com/hokamsingh/lessgo/internal/core/config"
-	"github.com/hokamsingh/lessgo/internal/core/context"
-	"github.com/hokamsingh/lessgo/internal/core/controller"
-	"github.com/hokamsingh/lessgo/internal/core/di"
-	"github.com/hokamsingh/lessgo/internal/core/discovery"
-	"github.com/hokamsingh/lessgo/internal/core/middleware"
-	"github.com/hokamsingh/lessgo/internal/core/module"
-	"github.com/hokamsingh/lessgo/internal/core/router"
-	"github.com/hokamsingh/lessgo/internal/core/service"
-	"github.com/hokamsingh/lessgo/internal/core/websocket"
-	"github.com/hokamsingh/lessgo/internal/utils"
+	"github.com/singhhokam/lessgo/internal/core/concurrency"
+	"github.com/singhhokam/lessgo/internal/core/config"
+	"github.com/singhhokam/lessgo/internal/core/context"
+	"github.com/singhhokam/lessgo/internal/core/controller"
+	"github.com/singhhokam/lessgo/internal/core/di"
+	"github.com/singhhokam/lessgo/internal/core/discovery"
+	"github.com/singhhokam/lessgo/internal/core/middleware"
+	"github.com/singhhokam/lessgo/internal/core/module"
+	"github.com/singhhokam/lessgo/internal/core/router"
+	"github.com/singhhokam/lessgo/internal/core/service"
+	"github.com/singhhokam/lessgo/internal/core/websocket"
+	"github.com/singhhokam/lessgo/internal/utils"
 )
 
 // Version

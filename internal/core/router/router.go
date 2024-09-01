@@ -14,9 +14,9 @@ import (
 
 	"github.com/go-redis/redis/v8"
 	"github.com/gorilla/mux"
-	"github.com/hokamsingh/lessgo/internal/core/context"
-	"github.com/hokamsingh/lessgo/internal/core/middleware"
-	"github.com/hokamsingh/lessgo/internal/utils"
+	"github.com/singhhokam/lessgo/internal/core/context"
+	"github.com/singhhokam/lessgo/internal/core/middleware"
+	"github.com/singhhokam/lessgo/internal/utils"
 )
 
 // Router represents an HTTP router with middleware support and error handling.

@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"github.com/hokamsingh/lessgo/internal/core/di"
-	"github.com/hokamsingh/lessgo/internal/core/router"
+	"github.com/singhhokam/lessgo/internal/core/di"
+	"github.com/singhhokam/lessgo/internal/core/router"
 )
 
 // App represents the main application structure

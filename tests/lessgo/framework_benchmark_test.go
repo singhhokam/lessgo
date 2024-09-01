@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	LessGo "github.com/hokamsingh/lessgo/pkg/lessgo"
+	LessGo "github.com/singhhokam/lessgo/pkg/lessgo"
 )
 
 // BenchmarkHandler benchmarks the /ping handler in the lessgo framework.

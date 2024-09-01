@@ -7,7 +7,7 @@ Usage:
 
 	import (
 		"net/http"
-		"github.com/hokamsingh/lessgo/pkg/lessgo/middleware"
+		"github.com/singhhokam/lessgo/pkg/lessgo/middleware"
 	)
 
 	func main() {

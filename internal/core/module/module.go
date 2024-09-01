@@ -6,7 +6,7 @@ This package defines the `IModule` interface and a `Module` struct that allows f
 Usage:
 
 	import (
-		"github.com/hokamsingh/lessgo/pkg/lessgo/module"
+		"github.com/singhhokam/lessgo/pkg/lessgo/module"
 	)
 
 	func main() {

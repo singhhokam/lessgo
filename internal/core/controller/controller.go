@@ -9,8 +9,8 @@ package controller
 import (
 	"fmt"
 
-	"github.com/hokamsingh/lessgo/internal/core/module"
-	"github.com/hokamsingh/lessgo/internal/core/router"
+	"github.com/singhhokam/lessgo/internal/core/module"
+	"github.com/singhhokam/lessgo/internal/core/router"
 )
 
 // Controller defines the interface that all controllers in the application must implement.

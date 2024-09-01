@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	LessGo "github.com/hokamsingh/lessgo/pkg/lessgo"
+	LessGo "github.com/singhhokam/lessgo/pkg/lessgo"
 )
 
 func TestLoadConfig(t *testing.T) {

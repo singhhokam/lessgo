@@ -8,8 +8,8 @@ Usage:
 	import (
 		"log"
 
-		"github.com/hokamsingh/lessgo/pkg/lessgo/di"
-		"github.com/hokamsingh/lessgo/pkg/lessgo/scheduler"
+		"github.com/singhhokam/lessgo/pkg/lessgo/di"
+		"github.com/singhhokam/lessgo/pkg/lessgo/scheduler"
 	)
 
 	func main() {
@@ -50,10 +50,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/hokamsingh/lessgo/internal/core/controller"
-	scheduler "github.com/hokamsingh/lessgo/internal/core/job"
-	"github.com/hokamsingh/lessgo/internal/core/module"
-	"github.com/hokamsingh/lessgo/internal/core/router"
+	"github.com/singhhokam/lessgo/internal/core/controller"
+	scheduler "github.com/singhhokam/lessgo/internal/core/job"
+	"github.com/singhhokam/lessgo/internal/core/module"
+	"github.com/singhhokam/lessgo/internal/core/router"
 	"go.uber.org/dig"
 )
 

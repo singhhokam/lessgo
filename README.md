@@ -56,7 +56,7 @@ Inspired by the modular architecture of frameworks like NestJs, LessGo offers a 
 To get started with the latest version of LessGo, update your dependencies using:
 
 ```sh
-go get github.com/hokamsingh/lessgo@latest
+go get github.com/singhhokam/lessgo@latest
 ```
 
 ### 🌟 Get Started Quickly with LessGo CLI
@@ -70,7 +70,7 @@ We're also introducing the **LessGo CLI**, a command-line tool to help you scaff
 Install the LessGo CLI with:
 
 ```sh
-go install github.com/hokamsingh/lessgo-cli@latest
+go install github.com/singhhokam/lessgo-cli@latest
 ```
 
 Make sure to try out the CLI to streamline your project setup and start building with LessGo in no time!
@@ -83,7 +83,7 @@ We would like to thank our contributors and community for their support and feed
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-For any questions, issues, or feedback, please visit our [GitHub repository](https://github.com/hokamsingh/lessgo) or join our community discussions.
+For any questions, issues, or feedback, please visit our [GitHub repository](https://github.com/singhhokam/lessgo) or join our community discussions.
 
 **Happy coding!** 🎉
 
