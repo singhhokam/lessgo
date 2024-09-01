@@ -107,7 +107,7 @@ import (
 )
 
 // Version
-const Version = "v1.0.2"
+const Version = "v1.1.1"
 
 // Expose core types
 
